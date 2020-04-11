@@ -1,0 +1,30 @@
+.header-info-link li{
+  display:inline-block;
+  padding:10px;
+}
+.header-info-link ul{
+  padding:0px;
+}
+.header-info-link a{
+  text-decoration: none;
+  color:#dbdbdb;
+}
+.logo-container{
+  flex:1;
+}
+.header-info-link{
+  flex:4;
+  text-align: right;
+}
+.header-wrapper{
+  background-color:#243e8e;
+  color:#dbdbdb;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:15px;
+  font-weight:bold;
+}
+.header-container{
+  display:flex;
+  width:95%;
+  margin:auto;
+}

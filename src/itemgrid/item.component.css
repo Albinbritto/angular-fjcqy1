@@ -1,0 +1,7 @@
+.item-wrapper{
+  width:100%;
+  display:flex;
+}
+item-container{
+  flex:1;
+}

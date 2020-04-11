@@ -1,0 +1,27 @@
+.footer-wrapper{
+  background-color:#243e8e;
+  color:#dbdbdb;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:15px;
+  font-weight:bold;
+  position:absolute;
+  bottom:0;
+  width:100%;
+  line-height:1.5;
+}
+.footer-container{
+  width:95%;
+  margin:auto;
+}
+.address-container li{
+  list-style-type:none;
+}
+.address-container>ul{
+  padding:0;
+}
+.address-container>ul>li>p{
+  margin:0;
+}
+.lisence-container{
+  text-align:right;
+}

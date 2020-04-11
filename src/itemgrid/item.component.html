@@ -1,0 +1,12 @@
+<div class="item-wrapper">
+  <div class="item-container" *ngFor="let item of items">
+    <div class="item-info-image">
+       <img [src]="item.imageurl"/>
+    </div>
+  <div class="item-info-description">
+      <div>{{item.name}}</div>
+      <div>{{item.DiscountPrice}}</div>
+      <div>{{item.ActualPrice}}</div>
+  </div>
+  </div>
+</div>
